@@ -54,5 +54,6 @@ https://www.visualstudio.com/zh-hans/
 比如，蓝牙串口调试助手（UWP免费试用版足够调试了）。
 调试工具的作用，就是确保你的蓝牙模块和手机之间可以正常通信，比如用调试工具给你的蓝牙串口设备发送字符串，看看蓝牙串口设备能不能响应。
 
+![image](http://bbs.wfun.com/data/attachment/forum/201612/03/142126do9xggvmzhh5bmvh.jpg)
 ![image](http://bbs.wfun.com/data/attachment/forum/201612/03/212404wxs0sxsmxpm10173.jpg)
 ![image](http://bbs.wfun.com/data/attachment/forum/201612/03/212407rgeeulvckvykeye4.jpg)
